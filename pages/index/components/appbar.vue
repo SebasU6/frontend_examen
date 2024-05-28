@@ -2,7 +2,7 @@
     <v-app-bar :elevation="0" >
       <v-app-bar-title text @click="goTo('/')">Index</v-app-bar-title>
   
-        <v-btn text @click="goTo('/products')">adios</v-btn>
+        <v-btn text @click="goTo('/products')">productos o algo asi</v-btn>
   
         <v-btn @click="goTo('nosotros')">¿Quiénes somos?</v-btn>
   
