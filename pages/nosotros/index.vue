@@ -1,10 +1,10 @@
 <template>
     <v-container fluid>
-        <cards></cards>
         <appbar></appbar>
+        <about></about>
     </v-container>
 </template>
-<script setup>
-import Cards from "./components/cards.vue"
+<script set up>
 import Appbar from "../index/components/appbar.vue"
+import About from "./components/about.vue"
 </script>

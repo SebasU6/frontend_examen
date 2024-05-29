@@ -1,5 +1,5 @@
 <template>
-    <v-parallax src="https://static4.depositphotos.com/1014905/347/i/450/depositphotos_3477954-stock-photo-abstract-blue-background-wave-veil.jpg">
+    <v-parallax src="https://files.oaiusercontent.com/file-zFlBOSlDy7KUjcdRnQgQOpb4?se=2024-05-29T19%3A10%3A02Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9c88d571-3e1c-4310-ae0d-d764e22f34a6.webp&sig=VLpl10B1Y9M1a7bhEdq%2BS2pd1NWE4YfO8sKoCd8FpFo%3D">
         <v-container>
             <v-row class="justify-center align-center">
                 <v-col cols="12" md="4" sm="12" xs="12" class="text-center"> 
