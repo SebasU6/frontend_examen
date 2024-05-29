@@ -16,7 +16,7 @@
             <v-card-title>{{ card.title }}</v-card-title>
             <v-card-text>{{ card.text }}</v-card-text>
             <v-card-actions class="justify-center">
-              <v-btn class="hover-button">Click me</v-btn>
+              <v-btn class="hover-button" @click="redirect">Click me</v-btn>
             </v-card-actions>
           </v-card>
         </v-col>
@@ -27,6 +27,8 @@
 
 <script setup>
 import { ref } from 'vue';
+
+const router = useRouter()
 
 // Simulated card data
 const cards = ref([
@@ -40,6 +42,10 @@ const cards = ref([
   { title: 'Card title 8', text: 'Content for card 8', image: 'https://via.placeholder.com/400x200' },
   { title: 'Card title 9', text: 'Content for card 9', image: 'https://via.placeholder.com/400x200' }
 ]);
+
+const redirect = function() {
+  router.push("/explore")
+}
 </script>
 
 <style scoped>
