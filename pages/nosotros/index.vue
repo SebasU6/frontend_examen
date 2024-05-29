@@ -4,7 +4,7 @@
         <about></about>
     </v-container>
 </template>
-<script set up>
+<script setup>
 import Appbar from "../index/components/appbar.vue"
 import About from "./components/about.vue"
 </script>
