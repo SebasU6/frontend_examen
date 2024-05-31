@@ -31,15 +31,15 @@ import { ref } from 'vue';
 const router = useRouter()
 // Simulated card data
 const cards = ref([
-  { title: 'Card title 1', text: 'Content for card 1', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 2', text: 'Content for card 2', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 3', text: 'Content for card 3', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 4', text: 'Content for card 4', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 5', text: 'Content for card 5', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 6', text: 'Content for card 6', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 7', text: 'Content for card 7', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 8', text: 'Content for card 8', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 9', text: 'Content for card 9', image: 'https://via.placeholder.com/400x200' }
+  { title: 'Card title 1', text: 'Content for card 1', image: 'https://imgix.cosentino.com/es/wp-content/uploads/2023/07/Lumire-70-Facade-MtWaverley-vic-1.jpg?auto=format%2Ccompress&ixlib=php-3.3.0' },
+  { title: 'Card title 2', text: 'Content for card 2', image: 'https://i.pinimg.com/564x/07/e9/ae/07e9ae27c9b9d4582cab297a63968db5.jpg' },
+  { title: 'Card title 3', text: 'Content for card 3', image: 'https://yt3.googleusercontent.com/WrW6618RgyBqV55dpIU4or-IbY_suXoGI2fuje1ETuGyFDVXwmsvjtHB93K27yzaejNTmPrTNw=s900-c-k-c0x00ffffff-no-rj' },
+  { title: 'Card title 4', text: 'Content for card 4', image: 'https://definicion.de/wp-content/uploads/2011/01/casa-2.jpg' },
+  { title: 'Card title 5', text: 'Content for card 5', image: 'https://images.adsttc.com/media/images/623c/4fa0/3e4b/3145/3000/001b/newsletter/_d_ambrosio_07._copy.jpg?1648119692' },
+  { title: 'Card title 6', text: 'Content for card 6', image: 'https://hips.hearstapps.com/hmg-prod/images/casa-caracol-1526458370.jpeg?crop=0.669xw:1.00xh;0.331xw,0&resize=640:*' },
+  { title: 'Card title 7', text: 'Content for card 7', image: 'https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/Types%20Of%20Homes/Stock-Gray-Ranch-Style-Home-AdobeStock_279953994-copy.jpeg' },
+  { title: 'Card title 8', text: 'Content for card 8', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDFvZImwpOrpfyhuRkAPHIHIP6UFxMheWb0Q&s' },
+  { title: 'Card title 9', text: 'Content for card 9', image: 'https://arquitectopablorestrepo.com/wp-content/uploads/2024/02/Diseno-casa-campestre-La-Ladera-2-400x300.jpg' }
 ]);
 
 const redirect = function() {

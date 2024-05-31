@@ -32,15 +32,15 @@ const router = useRouter()
 
 // Simulated card data
 const cards = ref([
-  { title: 'Card title 1', text: 'Content for card 1', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 2', text: 'Content for card 2', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 3', text: 'Content for card 3', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 4', text: 'Content for card 4', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 5', text: 'Content for card 5', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 6', text: 'Content for card 6', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 7', text: 'Content for card 7', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 8', text: 'Content for card 8', image: 'https://via.placeholder.com/400x200' },
-  { title: 'Card title 9', text: 'Content for card 9', image: 'https://via.placeholder.com/400x200' }
+  { title: 'Card title 1', text: 'Content for card 1', image: 'https://arq-3d.com/wp-content/uploads/2019/02/V1-1.jpg' },
+  { title: 'Card title 2', text: 'Content for card 2', image: 'https://www.shutterstock.com/image-photo/modern-apartment-buildings-on-sunny-600nw-761409520.jpg' },
+  { title: 'Card title 3', text: 'Content for card 3', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMeTBUIS2H5V6scvlgw5KuQ_sBC5cARhJ5zQ&s' },
+  { title: 'Card title 4', text: 'Content for card 4', image: 'https://proyectosdeviviendaenmonteria.com/wp-content/uploads/2023/09/fachada-praga.jpg' },
+  { title: 'Card title 5', text: 'Content for card 5', image: 'https://static.fotocasa.es/images/promotion/2024/04/24/20415799/2932555.jpg?rule=web_412x257' },
+  { title: 'Card title 6', text: 'Content for card 6', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTYF6LXiihacBpJjejBioyfam9dXnz9fOggA&s' },
+  { title: 'Card title 7', text: 'Content for card 7', image: 'https://x.cdrst.com/foto/hotel-sf/7e589/granderesp/departamentos-rondeau-by-lugar-exterior-f91568c.jpg' },
+  { title: 'Card title 8', text: 'Content for card 8', image: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/dd/06/59/exterior-view.jpg?w=700&h=-1&s=1' },
+  { title: 'Card title 9', text: 'Content for card 9', image: 'https://thumbs.dreamstime.com/b/fachada-moderna-japonesa-de-departamentos-en-osaka-jap%C3%B3n-jp-abril-apartamentos-japoneses-el-181235537.jpg' }
 ]);
 
 const redirect = function() {
