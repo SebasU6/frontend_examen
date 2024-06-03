@@ -31,8 +31,8 @@ import { ref } from 'vue';
 const router = useRouter()
 // Simulated card data
 const cards = ref([
-  { title: 'Card title 1', text: 'Content for card 1', image: 'https://imgix.cosentino.com/es/wp-content/uploads/2023/07/Lumire-70-Facade-MtWaverley-vic-1.jpg?auto=format%2Ccompress&ixlib=php-3.3.0' },
-  { title: 'Card title 2', text: 'Content for card 2', image: 'https://i.pinimg.com/564x/07/e9/ae/07e9ae27c9b9d4582cab297a63968db5.jpg' },
+  { title: 'Casa García', text: 'Dirección: Calle Los Olivos No. 15, Zona Sopocachi, La Paz', image: 'https://imgix.cosentino.com/es/wp-content/uploads/2023/07/Lumire-70-Facade-MtWaverley-vic-1.jpg?auto=format%2Ccompress&ixlib=php-3.3.0' },
+  { title: 'Residencia Las Palmas', text: 'Dirección: Avenida Arce No. 230, Zona San Jorge, La Paz', image: 'https://i.pinimg.com/564x/07/e9/ae/07e9ae27c9b9d4582cab297a63968db5.jpg' },
   { title: 'Card title 3', text: 'Content for card 3', image: 'https://yt3.googleusercontent.com/WrW6618RgyBqV55dpIU4or-IbY_suXoGI2fuje1ETuGyFDVXwmsvjtHB93K27yzaejNTmPrTNw=s900-c-k-c0x00ffffff-no-rj' },
   { title: 'Card title 4', text: 'Content for card 4', image: 'https://definicion.de/wp-content/uploads/2011/01/casa-2.jpg' },
   { title: 'Card title 5', text: 'Content for card 5', image: 'https://images.adsttc.com/media/images/623c/4fa0/3e4b/3145/3000/001b/newsletter/_d_ambrosio_07._copy.jpg?1648119692' },
