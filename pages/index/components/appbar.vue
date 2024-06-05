@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <v-app-bar :elevation="0" class="app-bar">
-      <v-app-bar-title class="title-text" @click="goTo('/')">BRUNO CASAS</v-app-bar-title>
+      <v-app-bar-title class="title-text" @click="goTo('/')">3HOUSED</v-app-bar-title>
 
       <v-spacer></v-spacer> <!-- Añadir un espaciador para empujar los botones a la derecha -->
 

@@ -4,7 +4,7 @@
     >
       <div class="d-flex flex-column fill-height justify-center align-center text-center text-white">
         <h1 class="headline mb-4">
-          BRUNO CASAS
+          3HOUSED
         </h1>
         <h4 class="subheading">
           Te otorgamos las llaves para abrir la puerta de tus sueños
