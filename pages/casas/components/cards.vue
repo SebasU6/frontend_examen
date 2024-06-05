@@ -67,7 +67,6 @@ router.push(path)
 } 
 
 
-import { ref } from 'vue';
 
 // Simulated card data
 const cards = ref([
