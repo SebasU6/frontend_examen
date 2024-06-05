@@ -58,6 +58,15 @@
 </template>
 
 <script setup>
+const router = useRouter()
+
+import { ref } from 'vue';
+
+const goTo = function(path){
+router.push(path)
+} 
+
+
 import { ref } from 'vue';
 
 // Simulated card data

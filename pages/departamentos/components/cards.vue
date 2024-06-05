@@ -48,7 +48,7 @@
                 <h2>{{ selectedCard.title }}</h2>
                 <p>{{ selectedCard.text }}</p>
               </div>
-              <v-btn color="primary" class="explore-button">EXPLORAR</v-btn>
+              <v-btn color="primary" @click="goTo('explore')">EXPLORAR</v-btn>
             </div>
           </div>
         </v-card-text>
@@ -58,7 +58,13 @@
 </template>
 
 <script setup>
+const router = useRouter()
+
 import { ref } from 'vue';
+
+const goTo = function(path){
+router.push(path)
+} 
 
 // Simulated card data
 const cards = ref([
