@@ -13,7 +13,15 @@
     </div>
 
     <div class="pt-0">
-      Phasellus feugiat arcu sapien, et iaculis ipsum elementum sit amet. Mauris cursus commodo interdum. Praesent ut risus eget metus luctus accumsan id ultrices nunc. Sed at orci sed massa consectetur dignissim a sit amet dui. Duis commodo vitae velit et faucibus. Morbi vehicula lacinia malesuada. Nulla placerat augue vel ipsum ultrices, cursus iaculis dui sollicitudin. Vestibulum eu ipsum vel diam elementum tempor vel ut orci. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      <h3>Contact Us</h3>
+      <p>
+        For inquiries or support, reach out to us through the following channels:
+      </p>
+      <p>
+        <strong>Email:</strong> support@example.com <br>
+        <strong>Phone:</strong> +1 (123) 456-7890 <br>
+        <strong>Address:</strong> 123 Main Street, Anytown, AN 12345
+      </p>
     </div>
 
     <v-divider></v-divider>
@@ -47,4 +55,11 @@ export default {
   margin-bottom: 0cm;
 }
 
+h3 {
+  margin-bottom: 0.5em;
+}
+
+p {
+  margin-bottom: 0.5em;
+}
 </style>
