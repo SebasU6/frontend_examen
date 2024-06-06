@@ -9,7 +9,7 @@
                 allow="xr-spatial-tracking; gyroscope; accelerometer" 
                 allowfullscreen 
                 scrolling="no" 
-                src="https://kuula.co/share/collection/7JJvB?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1">
+                src="https://kuula.co/share/collection/7PcLg?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1">
             </iframe>
         </div>
     </v-container>
