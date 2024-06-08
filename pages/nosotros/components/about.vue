@@ -14,7 +14,7 @@
 
     <v-timeline-item>
       <template v-slot:opposite>
-        <img src="file:///C:/Users/HP/Downloads/imagen%20bruno.jpg" alt="Bruno Image" class="image" />
+        <img src="https://i.imgur.com/zwF8OQ3.jpeg" alt="Bruno Image" class="image" />
       </template>
       <div>
         <div class="name">Bruno Coss</div>
@@ -26,7 +26,7 @@
 
     <v-timeline-item>
       <template v-slot:opposite>
-        <img src="file:///C:/Users/HP/Downloads/imagen%20gabo.jpg" alt="Gabriel Image" class="image" />
+        <img src="https://i.imgur.com/Ao02j0l.jpeg" alt="Gabriel Image" class="image" />
       </template>
       <div>
         <div class="name">Gabriel Villarroel</div>
@@ -38,7 +38,7 @@
 
     <v-timeline-item>
       <template v-slot:opposite>
-        <img src="file:///C:/Users/HP/Downloads/imagen%20mike.jpg" alt="Miguel Angel Image" class="image" />
+        <img src="https://i.imgur.com/66j1j3r.jpeg" alt="Miguel Angel Image" class="image" />
       </template>
       <div>
         <div class="name">Miguel Angel Montes de Oca</div>
