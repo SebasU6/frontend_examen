@@ -7,59 +7,43 @@
       <div>
         <div class="name">Sebastian Uzqueda</div>
         <p class="description">
-          Nombre: Bruno Coss<br>
-          Descripción: Estudiante de la carrera de Negocios Digitales UCB - ePC<br>
-          Nacimiento: 26 de agosto de 2005<br>
-          Lugar: La Paz, Bolivia.<br>
-          Colegio de egreso: San Ignacio 
+          CEO: Estudiante de la carrera de Negocios Digitales UCB - ePC<br>
         </p>
       </div>
     </v-timeline-item>
 
     <v-timeline-item>
       <template v-slot:opposite>
-        <img src="file:///C:/Users/MIGUEL%20ANGEL/Desktop/foto%20bruno%20para%20programacion.jpg" alt="Bruno Image" class="image" />
+        <img src="file:///C:/Users/HP/Downloads/imagen%20bruno.jpg" alt="Bruno Image" class="image" />
       </template>
       <div>
         <div class="name">Bruno Coss</div>
         <p class="description">
-          Nombre: Bruno Coss<br>
-          Descripción: Estudiante de la carrera de Negocios y Ciencia de Datos UCB - ePC<br>
-          Nacimiento: 26 de agosto de 2005<br>
-          Lugar: La Paz, Bolivia.<br>
-          Colegio de egreso: San Ignacio 
+          CEO: Estudiante de la carrera de Negocios y Ciencia de Datos UCB - ePC<br> 
         </p>
       </div>
     </v-timeline-item>
 
     <v-timeline-item>
       <template v-slot:opposite>
-        <img src="c:\Users\MIGUEL ANGEL\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\B27B449FD22D309D80ACE80B9960F7D0\Imagen de WhatsApp 2024-06-07 a las 17.04.28_84ca14a0.jpg" alt="Gabriel Image" class="image" />
+        <img src="file:///C:/Users/HP/Downloads/imagen%20gabo.jpg" alt="Gabriel Image" class="image" />
       </template>
       <div>
         <div class="name">Gabriel Villarroel</div>
         <p class="description">
-          Nombre: Gabriel Villarroel<br>
-          Descripción: Estudiante de la carrera de Negocios Digitales UCB - ePC<br>
-          Nacimiento: 03 de enero de 2006<br>
-          Lugar: La Paz, Bolivia.<br>
-          Colegio de egreso: Saint Andrews School
+          CEO: Estudiante de la carrera de Negocios Digitales UCB - ePC<br>
         </p>
       </div>
     </v-timeline-item>
 
     <v-timeline-item>
       <template v-slot:opposite>
-        <img src="c:\Users\MIGUEL ANGEL\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\432FD02F951F393DF1591310E6811118\Imagen de WhatsApp 2024-06-07 a las 16.18.15_5b9c512d.jpg" alt="Miguel Angel Image" class="image" />
+        <img src="file:///C:/Users/HP/Downloads/imagen%20mike.jpg" alt="Miguel Angel Image" class="image" />
       </template>
       <div>
         <div class="name">Miguel Angel Montes de Oca</div>
         <p class="description">
-          Nombre: Miguel Angel Montes de Oca<br>
-          Descripción: Estudiante de la carrera de Negocios Digitales UCB - ePC<br>
-          Nacimiento: 12 de diciembre de 2002<br>
-          Lugar: La Paz, Bolivia.<br>
-          Colegio de egreso: Libertadores de America
+          CEO: Estudiante de la carrera de Negocios Digitales UCB - ePC<br>
         </p>
       </div>
     </v-timeline-item>
