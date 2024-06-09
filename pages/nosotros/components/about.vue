@@ -2,7 +2,7 @@
   <v-timeline>
     <v-timeline-item>
       <template v-slot:opposite>
-        <img src="https://via.placeholder.com/200x400" alt="Sample Image" class="image" />
+        <img src="https://i.imgur.com/oOvNc7n.jpeg" alt="Sample Image" class="image" />
       </template>
       <div>
         <div class="name">Sebastian Uzqueda</div>
