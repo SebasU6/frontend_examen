@@ -71,54 +71,6 @@
         </p>
       </div>
     </v-timeline-item>
-
-    <v-timeline-item>
-      <template v-slot:opposite>
-        <img src="https://via.placeholder.com/200x400" alt="Sample Image" class="image" />
-      </template>
-      <div>
-        <div class="name">Content title 7</div>
-        <p class="description">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        </p>
-      </div>
-    </v-timeline-item>
-
-    <v-timeline-item>
-      <template v-slot:opposite>
-        <img src="https://via.placeholder.com/200x400" alt="Sample Image" class="image" />
-      </template>
-      <div>
-        <div class="name">Content title 8</div>
-        <p class="description">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        </p>
-      </div>
-    </v-timeline-item>
-
-    <v-timeline-item>
-      <template v-slot:opposite>
-        <img src="https://via.placeholder.com/200x400" alt="Sample Image" class="image" />
-      </template>
-      <div>
-        <div class="name">Content title 9</div>
-        <p class="description">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        </p>
-      </div>
-    </v-timeline-item>
-
-    <v-timeline-item>
-      <template v-slot:opposite>
-        <img src="https://via.placeholder.com/200x400" alt="Sample Image" class="image" />
-      </template>
-      <div>
-        <div class="name">Content title 10</div>
-        <p class="description">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        </p>
-      </div>
-    </v-timeline-item>
   </v-timeline>
 </template>
 
